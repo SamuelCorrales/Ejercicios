@@ -1,0 +1,30 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio-01.js",
+  "scripts": {
+    "start": "node app.js",
+    "ejercicio-01": "node ejercicio-01.js",
+    "ejercicio-02": "node ejercicio-02.js",
+    "ejercicio-03": "node ejercicio-03.js",
+    "ejercicio-04": "node ejercicio-04.js",
+    "ejercicio-05": "node ejercicio-05.js",
+    "ejercicio-06": "node ejercicio-06.js",
+    "ejercicio-07": "node ejercicio-07.js",
+    "ejercicio-08": "node ejercicio-08.js",
+    "ejercicio-09": "node ejercicio-09.js",
+    "ejercicio-10": "node ejercicio-10.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelCorrales/Ejercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelCorrales/Ejercicios/issues"
+  },
+  "homepage": "https://github.com/SamuelCorrales/Ejercicios#readme"
+}
